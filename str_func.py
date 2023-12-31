@@ -1,2 +1,2 @@
-def to_upper_case(s):
-    return s.upper()
+def to_upper_case(text):
+    return text.upper()
