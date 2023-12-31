@@ -4,7 +4,6 @@ def to_upper_case(s):
     
     Parameters:
     s (str): String to be converted.
-
     Returns:
     str: String in uppercase.
     """
