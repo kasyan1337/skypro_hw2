@@ -12,12 +12,12 @@ def to_upper_case(s):
 
 def capitalize_first_letters(s):
     """
-    Capitalizes the first letter of each word in the string.
+    Capitalizes the first letter of each word in the string...
 
     Parameters:
-    s (str): String to be capitalized.
+    s (str): String to be capitalized...
 
     Returns:
-    str: String with the first letter of each word capitalized.
+    str: String with the first letter of each word capitalized...
     """
     return s.title()
